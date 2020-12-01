@@ -1,0 +1,42 @@
+.navbar {
+    padding-left: 7%!important;
+    background: #272723!important;
+}
+
+.btn-icon {
+    width: 10%;
+}
+
+.div-icon {
+    width: 42px;
+    height: 42px;
+    background-color: #fff;
+    text-align: center;
+    display: inline-grid;
+    border-radius: 3px;
+    padding-top: 8px;
+}
+
+.title{
+    text-align: center;
+    margin: 3%;
+    text-transform: uppercase;
+}
+
+.new-product{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card{
+    height: 500px;
+}
+
+footer {
+    margin-top: 3%;
+    padding: 3%;
+    background-color: #272723;
+    min-height: 20px;
+}
+
+footer table{background-color: transparent;}
